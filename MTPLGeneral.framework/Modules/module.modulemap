@@ -1,0 +1,11 @@
+framework module MTPLGeneral {
+  umbrella header "MTPLGeneral.h"
+
+  export *
+  module * { export * }
+}
+
+module MTPLGeneral.Swift {
+    header "MTPLGeneral-Swift.h"
+    requires objc
+}
