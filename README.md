@@ -1,1 +1,5 @@
 # MTPLGeneral
+
+## Installation
+
+`pod 'MTPLGeneral'`
